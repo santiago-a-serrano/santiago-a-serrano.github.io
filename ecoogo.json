@@ -1,0 +1,129 @@
+{
+  "ecoTags": [
+    {
+      "ESP": "Sin Pitillos",
+      "ENG": "No Straws"
+    },
+    {
+      "ESP": "Sin Bolsas Plásticas",
+      "ENG": "No Plastic Bags"
+    },
+    {
+      "ESP": "Materiales Reciclados",
+      "ENG": "Recycled Materials"
+    }
+  ],
+  "businessTypes": [
+    {
+      "ESP": "Restaurante",
+      "ENG": "Restaurant"
+    },
+    {
+      "ESP": "Hotel",
+      "ENG": "Hotel"
+    },
+    {
+      "ESP": "Tienda",
+      "ENG": "Shop"
+    },
+    {
+      "ESP": "Cine",
+      "ENG": "Cinema"
+    }
+  ],
+  "businesses": [
+    {
+      "closeHours": [
+        2100,
+        2100,
+        2100,
+        2100,
+        2100,
+        2100,
+        2100,
+        2000
+      ],
+      "openHours": [
+        1000,
+        1000,
+        1000,
+        1000,
+        1000,
+        1000,
+        1000,
+        1000
+      ],
+      "address": "Calle 24 # 56 - 98",
+      "name": "Jack's Pizza",
+      "latitude": 4.867195,
+      "longitude": -74.045424,
+      "type": 0,
+      "tags": [
+        0,
+        1
+      ]
+    },
+    {
+      "closeHours": [
+        1800,
+        1800,
+        1800,
+        1800,
+        1800,
+        1800,
+        1800,
+        2000
+      ],
+      "openHours": [
+        700,
+        700,
+        700,
+        700,
+        700,
+        700,
+        700,
+        800
+      ],
+      "address": "Carrera 4 # 31 - 43",
+      "name": "Dieguito's Game",
+      "latitude": 4.877874,
+      "longitude": -74.045247,
+      "type": 2,
+      "tags": [
+        1
+      ]
+    },
+    {
+      "closeHours": [
+        2000,
+        2000,
+        2000,
+        2000,
+        2000,
+        2000,
+        2000,
+        1800
+      ],
+      "openHours": [
+        1000,
+        1000,
+        1000,
+        1000,
+        1000,
+        1000,
+        1000,
+        1100
+      ],
+      "address": "Calle 32 # 75 - 65",
+      "name": "EcoPoint",
+      "latitude": 4.859966,
+      "longitude": -74.055321,
+      "type": 2,
+      "tags": [
+        0,
+        1,
+        2
+      ]
+    }
+  ]
+}
